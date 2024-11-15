@@ -25,7 +25,7 @@ The Creative Bakery landing page showcases a variety of delicious baked goods, f
 
 ## <h2>Get the initial code</h2>
 1. Clone the repository:
-   - git clone in your PC https://github.com/romanyshyns/landing-page.git;
+   - git clone in your PC https://github.com/rdudchar/Bakery-landing;
    - code (name project).
 2. Run npm install to install the dependencies
 3. Create a branch for you solution (e.g. git switch -c develop)
