@@ -1,0 +1,78 @@
+.section {
+  margin: 0;
+  font-size: 48px;
+  line-height: 85%; /* 40.8px */
+  letter-spacing: -2.4px;
+  text-transform: uppercase;
+  font-weight: 400;
+
+  @include on-tablet {
+    font-size: 56px;
+    letter-spacing: -2.8px;
+  }
+
+  @include on-desktop {
+    font-size: 72px;
+    letter-spacing: -3.6px;
+  }
+
+  &__products {
+    padding-top: 64px;
+
+    @include on-tablet {
+      padding-top: 0;
+    }
+
+    @include on-desktop {
+      padding-top: 152px;
+    }
+
+    &-text {
+      margin: 24px 0 56px;
+      grid-column: 1 / -1;
+
+      @include on-tablet {
+        margin-bottom: 80px;
+      }
+    }
+
+    @include on-big-desktop {
+      padding-top: 178px;
+    }
+  }
+
+  &__about-us {
+
+    &-title {
+      font-size: 55px;
+      margin-bottom: 32px;
+      grid-column: span 2;
+
+      @include on-tablet {
+        grid-column: span 4;
+      }
+
+      @include on-desktop {
+        grid-column: span 3;
+      }
+    }
+
+    &-text {
+      grid-column: span 2;
+      margin: 0 0 64px;
+
+      @include on-tablet {
+        grid-column: span 4;
+      }
+
+      @include on-desktop {
+        grid-column: 5/8;
+      }
+    }
+  }
+
+  &__contact-title {
+    color: $White;
+    grid-column: span 2;
+  }
+}
