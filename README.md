@@ -3,7 +3,7 @@
 ### Explore the Demo ⤵️
 - [DEMO LINK](https://rdudchar.github.io/Bakery-landing/)
 
-- [**Design in Figma**]([https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1&node-type=))
+- [**Design in Figma**]([https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1&node-type=)
 
 ##**Description**
 The Creative Bakery landing page showcases a variety of delicious baked goods, from cakes and cookies to donuts. Visitors can explore a wide range of customizable products, view descriptions and images, and easily place orders. The page is designed to provide a seamless experience for customers, with intuitive navigation and a responsive layout that adapts to any device.
