@@ -1,11 +1,12 @@
-#**Creative Bakery Landing Page**🍪🎂
+# Creative Bakery Landing Page🍪🎂
 
-### Explore the Demo ⤵️
+## Explore the Demo
 - [DEMO LINK](https://rdudchar.github.io/Bakery-landing/)
 
-- [**Design in Figma**]([https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0-1&node-type=canvas](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1&node-type=)
+## Design in Figma
+- [**Figma**](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1&node-type=)
 
-##**Description**
+## **Description**
 The Creative Bakery landing page showcases a variety of delicious baked goods, from cakes and cookies to donuts. Visitors can explore a wide range of customizable products, view descriptions and images, and easily place orders. The page is designed to provide a seamless experience for customers, with intuitive navigation and a responsive layout that adapts to any device.
 
 ## <h2>Technologies Used</h2>
@@ -22,6 +23,8 @@ The Creative Bakery landing page showcases a variety of delicious baked goods, f
 
 <b style="color:#f300aa;">BEM Naming Convention:</b> All CSS classes follow the BEM methodology for better maintainability and scalability.
 
+---
+
 ## <h2>Get the initial code</h2>
 1. Clone the repository:
    - git clone in your PC https://github.com/romanyshyns/landing-page.git;
@@ -29,3 +32,9 @@ The Creative Bakery landing page showcases a variety of delicious baked goods, f
 2. Run npm install to install the dependencies
 3. Create a branch for you solution (e.g. git switch -c develop)
 4. Run npm start to run a development server at http://localhost:3000
+
+---
+
+**Usage:**
+Go to the DEMO LINK to view the live version of the app.
+
