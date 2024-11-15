@@ -23,8 +23,6 @@ The Creative Bakery landing page showcases a variety of delicious baked goods, f
 
 <b style="color:#f300aa;">BEM Naming Convention:</b> All CSS classes follow the BEM methodology for better maintainability and scalability.
 
----
-
 ## <h2>Get the initial code</h2>
 1. Clone the repository:
    - git clone in your PC https://github.com/romanyshyns/landing-page.git;
